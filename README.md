@@ -11,6 +11,9 @@ Bible study is an essential part of growing as a Christian. Everyone has a uniqu
 
 **Bible Study Space** highly encourages Christians to read the Bible **EVERY** day. There are some very useful resources online. 
 
+### * Note *
+** To open the links in a new tab: On **Mac** press and hold the Command button and click the link. (*You will immediately see the new tab open*). On **Windows** use Control-click. **
+
 + [**BibleHub.com**](https://biblehub.com/)
 + [**ChristianBook.com**](https://www.christianbook.com/)
 + [**BibleGateway.com**](https://www.biblegateway.com/)
